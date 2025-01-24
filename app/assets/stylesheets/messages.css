@@ -40,7 +40,7 @@
 .room{
   padding: 20px 0 40px;
 }
-.side__chatroom a{
+.room-name a {
   color: white;
   text-decoration: none;
 }
