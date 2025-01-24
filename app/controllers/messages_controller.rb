@@ -15,9 +15,7 @@ class MessagesController < ApplicationController
       render :index, status: :unprocessable_entity
     end
   end
-
-  def 
-   
+  
 
   private
 
