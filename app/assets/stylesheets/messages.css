@@ -40,7 +40,7 @@
 .room{
   padding: 20px 0 40px;
 }
-.side__chatroom a{
+.room-name a {
   color: white;
   text-decoration: none;
 }
@@ -105,7 +105,7 @@
   font-size: 14px;
   color: #434A54;
 }
-.left-form{
+.form-input{
   display: flex;
   background-color: white;
   width: 100%;
@@ -117,7 +117,7 @@
   height: 50px;
 }
 
-.form-send{
+.form-submit{
   font-size: 16px;
   clear: white;
   background-color: #38aef0;
